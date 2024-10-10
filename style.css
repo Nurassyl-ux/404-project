@@ -1,0 +1,36 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+div {
+    background-image: linear-gradient(to bottom right, #ef87d1, #e66488);
+    width: 1500px;
+    margin: auto;
+    border: 5px solid black;
+    border-radius: 10px;
+    height: 1025px;
+}
+h1 {
+    display: inline;
+    font-size: 220px;
+}
+.ui {
+    padding-top: 75px;
+    font-size: medium;
+    padding-bottom: 50px;
+}
+.lin {
+    font-size: x-large;
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+a {
+    color: white;
+}
+.vis {
+    padding-top: 70px;
+    font-size: large;
+    font-weight: 100;
+}
